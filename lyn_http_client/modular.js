@@ -10,12 +10,5 @@ let data = mymodule(path, filter, function(err, data){
     console.log(data[i]) 
 })
 
-//   console.log(data) 
-  
-//   for(var i=0;i<data.length;i++){
-      
-//       console.log(data[i]);
-//   }
-  
 
 
